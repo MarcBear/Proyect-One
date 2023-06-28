@@ -6,4 +6,4 @@ El presente proyecto fue realizado con **HTML y CSS**, utilizando buenas prácti
 ### Autor:
 Teodoro Marcelino Curay Hidalgo
 
-[LinkedIn](www.linkedin.com/in/marcbear)
+[LinkedIn](https://www.linkedin.com/in/marcbear)
